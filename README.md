@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" alt="Rachit Patel" width="700"/>
+  <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" alt="Rachit Patel" width="700px"/>
 </p>
 
 # Hey there, I'm Rachit Patel 👋
 
 🚀 Full Stack Software Developer | 💻 Python, Django, Flask, AI/ML Enthusiast | 🌐 Tech Explorer
 
-Welcome to my GitHub profile! I'm Rachit Patel, a passionate full-stack software developer with over 4 years of experience in building robust and intelligent web applications. I specialize in Python, Django, Flask, and have a keen interest in the exciting world of Artificial Intelligence and Machine Learning. Let's embark on a journey through my coding experience!
+Welcome to my GitHub profile! I'm **Rachit Patel**, a seasoned **full-stack software developer** with over **5+ years of experience** and expertise in **project management and team leading**. I specialize in **Python, Django, Flask, and AI/ML**. Let's explore my coding journey!
 
 ## 💻 My Tech Stack
 
@@ -19,28 +19,36 @@ Welcome to my GitHub profile! I'm Rachit Patel, a passionate full-stack software
 
 ## 🌱 Learning & Exploring
 
-I'm a strong advocate of continuous learning and staying ahead in the dynamic tech landscape. Currently, I'm delving into:
+Advocating continuous learning, I delve into:
 
-- **Artificial Intelligence and Machine Learning with Python**: Leveraging AI/ML for intelligent applications.
+- **AI/ML with Python**: Leveraging AI/ML for intelligent applications.
 - **Serverless Architectures**: Exploring the efficiency of serverless computing.
 - **Automated Testing Strategies**: Enhancing code quality with effective testing.
 
 ## 🚀 My Projects
 
-I've had the privilege of contributing to diverse projects. Here are a few highlights:
+1. **[Voyage Control](https://voyagecontrol.com/) - Delivery & Vehicle Management System**
+   - Upgraded from Angular JS to Angular 10
+   - Pixel-perfect responsive UI from Figma designs
+   - User, Customer & Role, and Access management
 
-1. [PyCraft](https://pycraft.io/): PyCraft is a collaborative coding platform for Python enthusiasts.
-2. [SmartHub](https://smarthub.com/): An intelligent home automation system powered by AI.
-3. [Flaskify](https://flaskify.app/): Simplifying web development with Flask.
+2. **[Sapphire Studios](https://www.sapphirestudios.co/) - SAAS Project**
+   - Agency and Creator Portals for TikTok and UGC ads
+   - Over 1 billion views achieved
+   - Django on AWS stack with LAMDA and serverless
+
+3. **[Phelix.AI](https://www.phelix.ai/) - Healthcare Automation**
+   - Zero-code, omnichannel, AI-powered virtual assistant
+   - Integrated LLM, Langchains, and Machine learning algorithms
+   - Google Image AI segmentation and Computer Vision integration
 
 ## 📫 Let's Connect
 
-I'm always open to connecting with fellow developers, tech enthusiasts, and those passionate about AI/ML. Feel free to reach out through the following channels:
-
-- Email: rachit.citrusbug@gmail.com
+I'm open to connecting with developers and AI/ML enthusiasts. Reach out at:
+- Email: **rachit.citrsubug@gmail.com**
 
 ## ⚡ Fun Fact
 
-Beyond the realm of code, I'm an avid reader and enjoy exploring the realms of science fiction. I believe imagination fuels innovation!
+Beyond code, I'm an avid reader exploring science fiction. Imagination fuels innovation!
 
-Thanks for stopping by my profile. Let's stay connected, collaborate, and create extraordinary things in the world of technology!
+Thanks for visiting! Let's connect, collaborate, and create in the tech world!
